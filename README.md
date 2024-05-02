@@ -1,9 +1,14 @@
 # Regen
 
+## Install dependencies
+```bash
+composer install
+```
+
 ## Create a .env file
 Go to user folder, and create a .env file with the content from env_example
 
-## How to run
+## How to run AI
 On the left side, click on pages dropdown then click on AI Chat
 
 ## What the AI does
